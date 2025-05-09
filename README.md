@@ -41,9 +41,8 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔗 SNS・その他
+## 🔗 連絡先
 
-- GitHub: [Nis6174](https://github.com/Nis6174)
 - Discord:[Nis](https://discord.com/users/652516485037686805)
 
 ---
