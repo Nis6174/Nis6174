@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ## 🔗 連絡先
 
 - Discord:[Nis](https://discord.com/users/652516485037686805)
+- lit.link:[もっと詳細プロフィール](https://lit.link/6174)
 
 ---
 
