@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - サーバ構築・仮想環境
 - クラウド・構成管理（IaC）
 - LinuxなどのCLI、コマンドラインが好きです。
+- セキュリティ関連など
 
 ---
 
